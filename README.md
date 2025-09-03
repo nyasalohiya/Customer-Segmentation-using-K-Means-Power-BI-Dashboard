@@ -25,7 +25,7 @@ This project applies **K-Means Clustering** to segment customers based on **Age,
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Overview](Dashboard.png)
+![Dashboard Overview](dashboard.png)
 
 ---
 
