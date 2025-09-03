@@ -25,15 +25,15 @@ This project applies **K-Means Clustering** to segment customers based on **Age,
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](Dashboard.png)
 
 ---
 
 ## 📂 Files Included
-- `customer_segments.csv` → Dataset  
+- `Mall_Customers.csv` → Dataset
+- `customer_segments(1).csv` -> Dataset for Dashboard
 - `Customer_Segmentation.ipynb` → Google Colab Notebook (Python ML model)  
-- `Customer_Segmentation.pbix` → Power BI dashboard  
-- `images/` → Dashboard screenshots  
+- `customer_segmentation.pbix` → Power BI dashboard  
 
 ---
 
